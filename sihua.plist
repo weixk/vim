@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://www.21msw.com/webDown/appdown/msw_sh.ipa</string>
+                                        <string>http://192.168.201.46/client/VIMClient.ipa</string>
                                 </dict>
                                 <dict>
                                         <key>kind</key>
@@ -29,13 +29,13 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.longene.mashangwan</string>
+                                <string>mjin@live.cn</string>
                                 <key>bundle-version</key>
-                                <string>1.0.1</string>
+                                <string>1.0</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>mashangwan</string>
+                                <string>VIMClient</string>
                         </dict>
                 </dict>
         </array>
